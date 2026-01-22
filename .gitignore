@@ -1,0 +1,10 @@
+_pycache_/
+*._pyc
+
+
+#virtual environment 
+.venv/
+
+#DATA
+DATA/RAW DATA
+DATA/PROCESSED DATA
